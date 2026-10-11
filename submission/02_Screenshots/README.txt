@@ -1,0 +1,1 @@
+Add real screenshots after running the application: landing page, chatbot, successful enquiry submission, admin dashboard, filters, enquiry detail, and mobile responsive layout.

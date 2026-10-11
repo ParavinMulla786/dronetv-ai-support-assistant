@@ -1,0 +1,1 @@
+See database/README.md and copy it into this folder. Do not include database credentials.

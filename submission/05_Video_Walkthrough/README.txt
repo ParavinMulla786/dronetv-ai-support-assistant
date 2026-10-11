@@ -1,0 +1,1 @@
+Record a 5–10 minute walkthrough after testing: frontend, chatbot, enquiry submission, API, MongoDB record, admin login, search/filter, status update, deletion, validation errors, and architecture.

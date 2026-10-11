@@ -1,0 +1,1 @@
+The source code is in the frontend/ and backend/ folders at the project root. Copy them here if your submission package requires a self-contained source-code folder.
