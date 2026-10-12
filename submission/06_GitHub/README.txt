@@ -1,1 +1,1 @@
-After creating the GitHub repository, paste its URL here. Verify that no .env or secret is committed.
+https://github.com/ParavinMulla786/dronetv-ai-support-assistant

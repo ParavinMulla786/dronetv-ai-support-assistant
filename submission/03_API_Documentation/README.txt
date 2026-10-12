@@ -1,1 +1,0 @@
-See docs/API_DOCUMENTATION.md and copy it into this folder for submission.
